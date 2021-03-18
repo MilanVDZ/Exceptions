@@ -1,4 +1,4 @@
-package Opdrachten.Exception;
+package Opdrachten.Exceptions;
 
 import java.util.Scanner;
 
